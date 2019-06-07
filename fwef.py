@@ -1,7 +1,7 @@
 N = int(input())
-Count = 0
+C = 0;
 while(N > 0):
-    N = N // 10
-    Count = Count + 1
-
-print("%d" %Count)
+    N = N // 10;
+    C = C + 1;
+    a=C
+print("%d" %a)
